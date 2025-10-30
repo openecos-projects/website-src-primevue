@@ -1,0 +1,167 @@
+[{
+    "name_zh": "项目列表",
+    "name_en": "Projects",
+    "desc_zh": "目前团队正在研发或与其他单位机构共同维护的开源项目",
+    "desc_en": "",
+    "data_zh": [{
+        "name": "人才培养",
+        "desc": "大规模开放式公益性芯片及系统人才、实践能力培养计划",
+        "prjs": [{
+            "name": "一生一芯",
+            "desc": "大规模公益性芯片及系统人才培养计划",
+            "logo": "https://dummyimage.com/100x100/eee/aaa&text=100x100",
+            "link": "https://ysyx.oscc.cc"
+        }, {
+            "name": "魔力计划",
+            "desc": "大规模开放式实践能力培养计划",
+            "logo": "https://dummyimage.com/100x100/eee/aaa&text=100x100",
+            "link": "https://moli.oscc.cc"
+        }]
+    }, {
+        "name": "RTL设计",
+        "desc": "可流片的开源IP模块和开源SoC框架",
+        "prjs": [{
+            "name": "开源IP/SoC",
+            "desc": "可流片的开源IP模块和开源SoC框架",
+            "logo": "https://dummyimage.com/100x100/eee/aaa&text=100x100",
+            "link": ""
+        }]
+    }, {
+        "name": "EDA工具",
+        "desc": "开源EDA点工具和基于点工具的整套工具链",
+        "prjs": [{
+            "name": "iEDA",
+            "desc": "开源EDA点工具",
+            "logo": "https://dummyimage.com/100x100/eee/aaa&text=100x100",
+            "link": "https://ieda.oscc.cc/"
+        }, {
+            "name": "开源EDA工具链",
+            "desc": "基于点工具的整套工具链",
+            "logo": "https://dummyimage.com/100x100/eee/aaa&text=100x100",
+            "link": ""
+        }]
+    }, {
+        "name": "PDK数据",
+        "desc": "浙江创芯55nm开源PDK和未来其他开源PDK",
+        "prjs": [{
+            "name": "浙江创芯55nm开源PDK",
+            "desc": "基于55nm CMOS工艺的开源PDK",
+            "logo": "https://dummyimage.com/100x100/eee/aaa&text=100x100",
+            "link": "https://icsprout55-pdk.rtfd.io"
+        }]
+    }, {
+        "name": "嵌入式",
+        "desc": "基于ECOS开源芯片的嵌入式板卡社区",
+        "prjs": [{
+            "name": "嵌入式社区",
+            "desc": "基于ECOS开源芯片的嵌入式板卡社区",
+            "logo": "https://dummyimage.com/100x100/eee/aaa&text=100x100",
+            "link": "https://ecos-embedded.rtfd.io"
+        }]
+    }, {
+        "name": "平台服务",
+        "desc": "基于云端的芯片敏捷设计平台和流片设计服务",
+        "prjs": [{
+            "name": "云平台",
+            "desc": "基于云端的芯片敏捷设计平台",
+            "logo": "https://dummyimage.com/100x100/eee/aaa&text=100x100",
+            "link": "https://studio.oscc.cc"
+        }, {
+            "name": "设计服务",
+            "desc": "流片设计服务",
+            "logo": "https://dummyimage.com/100x100/eee/aaa&text=100x100",
+            "link": ""
+        }]
+    }],
+    "data_en": [{
+        "name": "Talent Cultivation",
+        "desc": ""
+    }, {
+        "name": "RTL Design",
+        "desc": "可流片的开源IP模块和开源SoC框架"
+    }, {
+        "name": "EDA Tools",
+        "desc": "开源EDA点工具和基于点工具的整套工具链"
+    }, {
+        "name": "PDK Data",
+        "desc": "浙江创芯55nm开源PDK和未来其他开源PDK"
+    }, {
+        "name": "Embedded",
+        "desc": "基于ECOS开源芯片的嵌入式板卡社区"
+    }, {
+        "name": "Platform & Service",
+        "desc": "基于云端的芯片敏捷设计平台和流片设计服务"
+    }]
+}, {
+    "name_zh": "关于我们",
+    "name_en": "About Us",
+    "desc_zh": "关于团队的一切内容",
+    "desc_en": "",
+    "data_zh": [{
+        "name": "团队介绍",
+        "desc": "团队的创建背景、目标计划、发展历史、成员列表等"
+    }, {
+        "name": "芯片展墙",
+        "desc": "截止到目前团队所有已流片的芯片版图、规格信息、应用情况等"
+    }, {
+        "name": "联系方式",
+        "desc": "电子邮箱、社交矩阵、办公地址等联系方式"
+    }, {
+        "name": "活动记录",
+        "desc": "团队参与重要会议/活动的照片墙和视频墙"
+    }],
+    "data_en": [
+        "Introduction",
+        "Chip Gallery",
+        "Contact",
+        "Event Records"
+    ]
+}, {
+    "name_zh": "开放资源",
+    "name_en": "Resources",
+    "desc_zh": "你可以从团队这里所获取的一切资源",
+    "desc_en": "",
+    "data_zh": [{
+        "name": "新闻动态",
+        "desc": "团队本身或所研发维护项目的最新发展动态"
+    }, {
+        "name": "PPT海报",
+        "desc": "参与学术会议、社区活动等所制作的PPT和海报"
+    }, {
+        "name": "投稿论文",
+        "desc": "已经中稿的国内外学术会议或期刊论文"
+    }, {
+        "name": "招聘信息",
+        "desc": "团队的联培硕士、实习客座、全职招聘、第三方委托招聘等信息"
+    }],
+    "data_en": [
+        "News",
+        "PPT & Posters",
+        "Papers",
+        "Job Postings"
+    ]
+}, {
+    "name_zh": "其他事项",
+    "name_en": "Others",
+    "desc_zh": "其他一些杂项",
+    "desc_en": "",
+    "data_zh": [{
+        "name": "活动日历",
+        "desc": "团队参与或举办重要活动的日程安排"
+    }, {
+        "name": "社区论坛",
+        "desc": "开源芯片敏捷设计论坛或其他交流平台"
+    }, {
+        "name": "问题清单",
+        "desc": "关于团队或项目整体层面上的常见问题解答"
+    }, {
+        "name": "法律条款",
+        "desc": "Logo使用条款、代码许可证、隐私条款等"
+    }],
+    "data_en": [
+        "Events",
+        "Forum",
+        "FAQ",
+        "Policies"
+    ]
+}]

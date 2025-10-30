@@ -1,0 +1,36 @@
+[{
+    "type": "material",
+    "data": "public",
+    "link": {
+        "data": "/",
+        "type": "_self"
+    }
+}, {
+    "type": "prime",
+    "data": "github",
+    "link": {
+        "data": "https://github.com/openecos-projects",
+        "type": "_blank"
+    }
+}, {
+    "type": "fontawesome",
+    "data": "weixin",
+    "link": {
+        "data": "",
+        "type": "_blank"
+    }
+}, {
+    "type": "prime",
+    "data": "twitter",
+    "link": {
+        "data": "",
+        "type": "_blank"
+    }
+}, {
+    "type": "prime",
+    "data": "discord",
+    "link": {
+        "data": "",
+        "type": "_blank"
+    }
+}]

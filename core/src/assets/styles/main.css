@@ -1,0 +1,62 @@
+@import "primeicons/primeicons.css";
+
+@import "tailwindcss";
+@import "tailwindcss-primeui";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+    --font-sans: InterVariable, sans-serif;
+    --font-sans--font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+
+    --breakpoint-sm: 640px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 1024px;
+    --breakpoint-xl: 1280px;
+    --breakpoint-2xl: 1536px;
+
+    --container-sm: 640px;
+    --container-md: 768px;
+    --container-lg: 1024px;
+    --container-xl: 1280px;
+    --container-2xl: 1536px;
+
+    --animate-infinite-scroll: infinite-scroll 40s linear infinite;
+
+    @keyframes infinite-scroll {
+        from {
+            transform: translateX(0);
+        }
+        to {
+            transform: translateX(-100%);
+        }
+    }
+}
+
+body {
+    --p-orange: #ff710d;
+}
+.bg-logo-o {
+    background-color: var(--p-orange) !important;
+}
+.border-logo {
+    border-color: var(--p-orange);
+}
+.border-logo-o {
+    border-color: var(--p-orange) !important;
+}
+.fill-logo {
+    fill: var(--p-orange);
+}
+.text-logo {
+    color: var(--p-orange)
+}
+.text-logo-o {
+    color: var(--p-orange) !important
+}
+.text-logo-hover:hover {
+    color: var(--p-orange)
+}
+.text-logo-hover-none-o {
+    background-color: transparent !important;
+}
