@@ -1,6 +1,6 @@
 <template>
     <div class="bg-surface-0 dark:bg-surface-900 px-6 py-20 md:px-12 lg:px-20 flex flex-col gap-8 max-w-400 m-auto">
-        <div class="flex flex-col gap-8">
+        <!-- <div class="flex flex-col gap-8">
             <div class="flex flex-col gap-4">
                 <div class="text-surface-900 dark:text-surface-0 text-4xl font-semibold leading-tight">订阅消息</div>
                 <div class="text-surface-600 dark:text-surface-400 text-lg leading-tight">获取ECOS团队的最新发展动态</div>
@@ -13,7 +13,7 @@
                     class="px-3! py-2! font-medium! bg-logo-o border-logo-o rounded-4xl!"
                     label="现在加入" />
             </div>
-        </div>
+        </div> -->
         <div class="h-px bg-surface-200 dark:bg-surface-700"></div>
         <div class="grid lg:grid-cols-5 md:grid-cols-3 grid-cols-1 gap-8">
             <div class="flex flex-col gap-8">
@@ -52,7 +52,7 @@
                     </a>
                 </div>
             </div>
-            <div
+            <!-- <div
                 v-for="arr in footerListArr"
                 :key="arr"
                 tabindex="0"
@@ -67,7 +67,7 @@
                         {{ obj.name }}
                     </a>
                 </div>
-            </div>
+            </div> -->
         </div>
         <div class="py-6 px-0 flex flex-wrap items-center justify-between w-full border-t border-surface-200 dark:border-surface-700 gap-4">
             <span class="text-base text-surface-900 dark:text-surface-0 font-normal leading-normal">Copyright © 2025 ECOS Team</span>

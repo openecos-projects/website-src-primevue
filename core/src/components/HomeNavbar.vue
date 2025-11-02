@@ -28,7 +28,7 @@
                             <span>网站首页</span>
                         </a>
                     </li>
-                    <li
+                    <!-- <li
                         v-for="arr in navbarListArr"
                         :key="arr"
                         tabindex="0">
@@ -71,13 +71,13 @@
                                 </div>
                             </div>
                         </div>
-                    </li>
+                    </li> -->
                 </ul>
-                <div class="flex border-t lg:border-t-0 border-surface-700 lg:border-surface-800 py-4 lg:py-0 mt-4 lg:mt-0 gap-4">
-                    <Button class="text-logo-o text-logo-hover-none-o" type="button" @click="toggleDarkMode" text rounded>
-                        <i :class="['pi ', 'pi ', { 'pi-moon': isDarkMode, 'pi-sun': !isDarkMode }]" />
-                    </Button>
-                </div>
+            </div>
+            <div class="flex border-t lg:border-t-0 border-surface-700 lg:border-surface-800 py-4 lg:py-0 mt-4 lg:mt-0 gap-4 w-48">
+                <Button class="text-logo-o text-logo-hover-none-o" type="button" @click="toggleDarkMode" text rounded>
+                    <i :class="['pi ', 'pi ', { 'pi-moon': isDarkMode, 'pi-sun': !isDarkMode }]" />
+                </Button>
             </div>
         </div>
     </div>
