@@ -34,4 +34,4 @@ jobs:
         publish_dir: ./core/dist
         external_repository: openecos-projects/openecos-projects.github.io
         publish_branch: main
-        keep_files: false
+        cname: openecos.com
